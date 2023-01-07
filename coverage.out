@@ -1,0 +1,11 @@
+mode: set
+sample-api/usecase/usecase.go:21.59,26.2 1 1
+sample-api/usecase/usecase.go:29.62,32.16 2 1
+sample-api/usecase/usecase.go:37.2,37.22 1 1
+sample-api/usecase/usecase.go:32.16,35.3 2 1
+sample-api/router/router.go:14.45,22.2 5 1
+sample-api/controller/controller.go:24.62,29.2 1 1
+sample-api/controller/controller.go:32.43,34.2 1 1
+sample-api/controller/controller.go:37.48,41.16 2 1
+sample-api/controller/controller.go:46.2,46.33 1 1
+sample-api/controller/controller.go:41.16,44.3 2 1
